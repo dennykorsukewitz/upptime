@@ -5,7 +5,19 @@ repo: upptime # The name of this repository
 sites:
   - name: dennykorsukewitz.github.io
     url: https://dennykorsukewitz.github.io/
-    port: 80
+
+  - name: hausdienst-nita.de
+    url: http://hausdienst-nita.de/
+
+  - name: preussundreschke.de
+    url: http://www.preussundreschke.de/
+
+  - name: metallbau-bresch.de
+    url: http://www.metallbau-bresch.de/
+
+  - name: jsfeuerwerk.de
+    url: http://www.jsfeuerwerk.de/
+
 
 assignees: # Users to assign downtime issues (optional)
   - dennykorsukewitz
