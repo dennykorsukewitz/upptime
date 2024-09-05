@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 75,
-    "timeWeek": 97,
-    "timeMonth": 91,
-    "timeYear": 88,
+    "time": 89,
+    "timeDay": 125,
+    "timeWeek": 102,
+    "timeMonth": 93,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 510,
-    "timeWeek": 614,
-    "timeMonth": 631,
-    "timeYear": 624,
+    "time": 632,
+    "timeDay": 894,
+    "timeWeek": 648,
+    "timeMonth": 645,
+    "timeYear": 632,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2011,
-    "timeDay": 3071,
-    "timeWeek": 2327,
-    "timeMonth": 2006,
-    "timeYear": 2011,
+    "time": 1996,
+    "timeDay": 1529,
+    "timeWeek": 2116,
+    "timeMonth": 2012,
+    "timeYear": 1996,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2221,
-    "timeDay": 3490,
-    "timeWeek": 2648,
-    "timeMonth": 2308,
-    "timeYear": 2221,
+    "time": 2184,
+    "timeDay": 1001,
+    "timeWeek": 2299,
+    "timeMonth": 2276,
+    "timeYear": 2184,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jsfeuerwerk.de.ico",
     "slug": "jsfeuerwerk-de",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1500,
-    "timeDay": 1311,
-    "timeWeek": 1518,
-    "timeMonth": 1469,
-    "timeYear": 1500,
-    "dailyMinutesDown": {
-      "2024-09-04": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1487,
+    "timeDay": 968,
+    "timeWeek": 1383,
+    "timeMonth": 1475,
+    "timeYear": 1487,
+    "dailyMinutesDown": {}
   }
 ]
