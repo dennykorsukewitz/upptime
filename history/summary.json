@@ -76,7 +76,7 @@
     "url": "http://www.jsfeuerwerk.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jsfeuerwerk.de.ico",
     "slug": "jsfeuerwerk-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 1387,
     "timeMonth": 1527,
     "timeYear": 1546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   }
 ]
