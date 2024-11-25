@@ -58,18 +58,20 @@
     "url": "http://www.metallbau-bresch.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.metallbau-bresch.de.ico",
     "slug": "metallbau-bresch-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2285,
-    "timeDay": 1819,
-    "timeWeek": 2363,
-    "timeMonth": 2377,
-    "timeYear": 2285,
-    "dailyMinutesDown": {}
+    "time": 2278,
+    "timeDay": 1623,
+    "timeWeek": 2246,
+    "timeMonth": 2347,
+    "timeYear": 2278,
+    "dailyMinutesDown": {
+      "2024-11-25": 0
+    }
   },
   {
     "name": "jsfeuerwerk.de",
