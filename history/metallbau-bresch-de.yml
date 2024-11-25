@@ -1,7 +1,7 @@
 url: http://www.metallbau-bresch.de/
-status: up
-code: 200
-responseTime: 1819
-lastUpdated: 2024-11-24T23:03:04.931Z
+status: down
+code: 502
+responseTime: 1427
+lastUpdated: 2024-11-25T09:25:51.222Z
 startTime: 2024-08-03T23:36:19.326Z
 generator: Upptime <https://github.com/upptime/upptime>
