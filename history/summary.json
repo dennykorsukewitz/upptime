@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 40,
-    "timeWeek": 96,
-    "timeMonth": 101,
-    "timeYear": 102,
+    "time": 101,
+    "timeDay": 82,
+    "timeWeek": 94,
+    "timeMonth": 102,
+    "timeYear": 101,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 438,
-    "timeWeek": 560,
-    "timeMonth": 615,
-    "timeYear": 640,
+    "time": 639,
+    "timeDay": 467,
+    "timeWeek": 547,
+    "timeMonth": 612,
+    "timeYear": 639,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "preussundreschke-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2121,
-    "timeDay": 2908,
-    "timeWeek": 2216,
-    "timeMonth": 2140,
-    "timeYear": 2121,
-    "dailyMinutesDown": {
-      "2025-02-06": 8
-    }
+    "time": 2126,
+    "timeDay": 3750,
+    "timeWeek": 2171,
+    "timeMonth": 2195,
+    "timeYear": 2126,
+    "dailyMinutesDown": {}
   },
   {
     "name": "metallbau-bresch.de",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2308,
-    "timeDay": 740,
-    "timeWeek": 2396,
-    "timeMonth": 2432,
-    "timeYear": 2308,
+    "time": 2315,
+    "timeDay": 3729,
+    "timeWeek": 2384,
+    "timeMonth": 2484,
+    "timeYear": 2315,
     "dailyMinutesDown": {}
   },
   {
@@ -80,17 +78,15 @@
     "slug": "jsfeuerwerk-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1547,
-    "timeDay": 2095,
-    "timeWeek": 1708,
-    "timeMonth": 1513,
-    "timeYear": 1547,
-    "dailyMinutesDown": {
-      "2025-02-06": 7
-    }
+    "time": 1551,
+    "timeDay": 2580,
+    "timeWeek": 1854,
+    "timeMonth": 1554,
+    "timeYear": 1551,
+    "dailyMinutesDown": {}
   }
 ]
