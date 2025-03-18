@@ -40,19 +40,19 @@
     "url": "http://www.preussundreschke.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.preussundreschke.de.ico",
     "slug": "preussundreschke-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2171,
-    "timeDay": 7536,
-    "timeWeek": 3521,
-    "timeMonth": 2510,
-    "timeYear": 2171,
+    "time": 2177,
+    "timeDay": 6208,
+    "timeWeek": 3524,
+    "timeMonth": 2545,
+    "timeYear": 2177,
     "dailyMinutesDown": {
-      "2025-03-18": 0
+      "2025-03-18": 13
     }
   },
   {
