@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 89,
-    "timeWeek": 117,
-    "timeMonth": 108,
+    "timeDay": 35,
+    "timeWeek": 100,
+    "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 541,
-    "timeWeek": 577,
-    "timeMonth": 627,
-    "timeYear": 636,
+    "time": 635,
+    "timeDay": 498,
+    "timeWeek": 537,
+    "timeMonth": 626,
+    "timeYear": 635,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "preussundreschke-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2177,
-    "timeDay": 6208,
-    "timeWeek": 3524,
-    "timeMonth": 2545,
-    "timeYear": 2177,
-    "dailyMinutesDown": {
-      "2025-03-18": 13
-    }
+    "time": 2182,
+    "timeDay": 6235,
+    "timeWeek": 3664,
+    "timeMonth": 2618,
+    "timeYear": 2182,
+    "dailyMinutesDown": {}
   },
   {
     "name": "metallbau-bresch.de",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2347,
-    "timeDay": 3970,
-    "timeWeek": 2531,
-    "timeMonth": 2543,
-    "timeYear": 2347,
+    "time": 2352,
+    "timeDay": 3519,
+    "timeWeek": 2707,
+    "timeMonth": 2640,
+    "timeYear": 2352,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1553,
-    "timeDay": 2202,
-    "timeWeek": 1654,
-    "timeMonth": 1629,
-    "timeYear": 1553,
+    "time": 1556,
+    "timeDay": 2312,
+    "timeWeek": 1789,
+    "timeMonth": 1686,
+    "timeYear": 1556,
     "dailyMinutesDown": {}
   }
 ]
