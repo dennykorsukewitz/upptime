@@ -22,9 +22,9 @@
     "url": "http://hausdienst-nita.de/",
     "icon": "https://icons.duckduckgo.com/ip3/hausdienst-nita.de.ico",
     "slug": "hausdienst-nita-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 727,
     "timeMonth": 646,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-09": 0
+    }
   },
   {
     "name": "preussundreschke.de",
@@ -58,19 +60,19 @@
     "url": "http://www.metallbau-bresch.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.metallbau-bresch.de.ico",
     "slug": "metallbau-bresch-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2378,
-    "timeDay": 3212,
-    "timeWeek": 3002,
-    "timeMonth": 2634,
-    "timeYear": 2378,
+    "time": 2372,
+    "timeDay": 1977,
+    "timeWeek": 2720,
+    "timeMonth": 2575,
+    "timeYear": 2372,
     "dailyMinutesDown": {
-      "2025-04-09": 0
+      "2025-04-09": 10
     }
   },
   {
