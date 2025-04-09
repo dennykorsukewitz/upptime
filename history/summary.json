@@ -42,8 +42,8 @@
     "slug": "preussundreschke-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2219,
@@ -51,18 +51,16 @@
     "timeWeek": 3086,
     "timeMonth": 2847,
     "timeYear": 2219,
-    "dailyMinutesDown": {
-      "2025-04-09": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "metallbau-bresch.de",
     "url": "http://www.metallbau-bresch.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.metallbau-bresch.de.ico",
     "slug": "metallbau-bresch-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +69,9 @@
     "timeWeek": 3002,
     "timeMonth": 2634,
     "timeYear": 2378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-09": 0
+    }
   },
   {
     "name": "jsfeuerwerk.de",
