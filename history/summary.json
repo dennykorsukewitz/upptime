@@ -24,18 +24,16 @@
     "slug": "hausdienst-nita-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 638,
     "timeDay": 848,
     "timeWeek": 720,
     "timeMonth": 647,
     "timeYear": 638,
-    "dailyMinutesDown": {
-      "2025-04-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "preussundreschke.de",
