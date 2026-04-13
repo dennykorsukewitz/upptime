@@ -58,19 +58,19 @@
     "url": "http://www.metallbau-bresch.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.metallbau-bresch.de.ico",
     "slug": "metallbau-bresch-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2479,
-    "timeDay": 2653,
-    "timeWeek": 3671,
-    "timeMonth": 3618,
-    "timeYear": 3407,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 2474,
+    "timeDay": 1858,
+    "timeWeek": 3381,
+    "timeMonth": 3362,
+    "timeYear": 3227,
     "dailyMinutesDown": {
-      "2026-04-13": 1
+      "2026-04-13": 45
     }
   },
   {
