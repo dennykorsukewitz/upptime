@@ -40,18 +40,20 @@
     "url": "http://www.preussundreschke.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.preussundreschke.de.ico",
     "slug": "preussundreschke-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2430,
+    "time": 2434,
     "timeDay": 3532,
     "timeWeek": 3468,
     "timeMonth": 3732,
     "timeYear": 3732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-30": 0
+    }
   },
   {
     "name": "metallbau-bresch.de",
